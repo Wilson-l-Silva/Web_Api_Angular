@@ -2441,11 +2441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\ProEventos.Api.csproj",
+      "projectUniqueName": "D:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\ProEventos.Api.csproj",
       "projectName": "ProEventos.Api",
-      "projectPath": "d:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\ProEventos.Api.csproj",
+      "projectPath": "D:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\ProEventos.Api.csproj",
       "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-      "outputPath": "d:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\obj\\",
+      "outputPath": "D:\\repositorios-wilson\\Web_Api_Angular\\Back\\src\\ProEventos.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2525,7 +2525,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
