@@ -6,7 +6,7 @@ namespace ProEventos.Api.Controllers;
 
 [ApiController]
 [Route("api/eventos")]
-public class EventoContoller : ControllerBase
+public class EventosContoller : ControllerBase
 {
     // public IEnumerable<Evento> _evento = new Evento[]
     //    {
@@ -33,8 +33,8 @@ public class EventoContoller : ControllerBase
     //        }
     //    };
 
-    public readonly DataContext _context;  
-    public EventoContoller(DataContext context)
+    public readonly DataContext _context;
+    public EventosContoller(DataContext context)
     {
         _context = context;
     }
@@ -42,8 +42,8 @@ public class EventoContoller : ControllerBase
     [HttpGet]
     public IEnumerable<Evento> Get()
     {
-       return _context.Eventos;
-       
+        return _context.Eventos;
+
     }
 
     [HttpGet("{id}")]
